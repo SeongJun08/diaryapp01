@@ -1,0 +1,13 @@
+# .NET Build Folders
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
